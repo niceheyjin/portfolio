@@ -1,0 +1,13 @@
+@font-face{
+  font-family:myfont;
+  /* font-face등록구문 안에서는 font-family 속성은 등록명으로 사용된다. */
+  src:url("../font/Maplestory Bold.ttf");
+  /* src속성에는 폰트파일까지의 경로를 입력한다. */
+}
+
+  @font-face {
+      font-family: 'Chosunilbo_myungjo';
+      src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Chosunilbo_myungjo.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+  }
