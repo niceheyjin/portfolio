@@ -1591,15 +1591,15 @@
       font-style: initial;
   }
   .skillCon {
-      height: 100vh;
-      text-align: center;
-      line-height: 48px;
-      /* background: url(../img/landscape-g02eb93546_1280.png) 0 0; */
-      background-size: cover;
-      padding-top: inherit;
-      padding-top: 25%;
-      position:relative;
-  }
+    height: 100vh;
+    text-align: center;
+    line-height: 48px;
+    background: url(../img/landscape-g02eb93546_1280.png) 0 0;
+    background-size: cover;
+    padding-top: inherit;
+    padding-top: 10%;
+    /* position: relative; */
+}
   .skillBG {
       position: absolute;
       width: 100%;
@@ -1632,12 +1632,12 @@
       font-size:1.5em;
   }
 
-  .skillImg {
+  /* .skillImg {
       width: 75%;
       height: 60px;
       margin: 0 auto;
        transition: all .5s ease 0s;
-  }
+  } */
   .skill1{
       display: flex;
       padding: -10%;
@@ -3042,20 +3042,20 @@
   }
   .box bg-3{display: flex}
   .button--nanuk {
-      /* padding: 0 4em; */
-      overflow: hidden;
-      background: #7986cb00;
-      -webkit-transition: background-color 0.3s;
-      transition: background-color 0.3s;
-      /* border-radius: 21%; */
-      margin-left: 65%;
-      color: #fff;
-      border-color: #fff;
-      FONT-VARIANT: JIS83;
-      padding: 0% 3%;
-      margin-right: -48%;
-      border-radius: 60px;
-  }
+    /* padding: 0 4em; */
+    overflow: hidden;
+    background: #7986cb00;
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s;
+    /* border-radius: 21%; */
+    margin-left: 77%;
+    color: #fff;
+    border-color: #fff;
+    FONT-VARIANT: JIS83;
+    padding: 0% 3%;
+    margin-right: -48%;
+    border-radius: 60px;
+}
   .button--nanuk.button--inverted {
     background: #fff;
     color: #7986cb;
